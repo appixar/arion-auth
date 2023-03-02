@@ -1,7 +1,9 @@
+# DONT CHANGE FIELD NAMES!
 ~user_log:
   log_id: id
   user_id: int
   token_id: int # only if auth mode = jwt
+  dev_id: int
   log_ip: str
   log_endpoint: str/256
   log_method: str/12

@@ -1,3 +1,4 @@
+# DONT CHANGE FIELD NAMES!
 ~user_device:
   dev_id: id
   user_id: int

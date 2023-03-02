@@ -1,3 +1,4 @@
+# DONT CHANGE FIELD NAMES!
 # access log with login/pass only
 ~user_auth:
   auth_id: id

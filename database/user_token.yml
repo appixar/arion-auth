@@ -1,3 +1,4 @@
+# DONT CHANGE FIELD NAMES!
 # only if auth mode = jwt
 ~user_token:
   token_id: id

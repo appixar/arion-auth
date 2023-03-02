@@ -1,3 +1,4 @@
+# DONT CHANGE FIELD NAMES!
 ~user_verify:
   uv_id: id
   uv_email: email # required: email or phone.
