@@ -4,7 +4,7 @@
         "sha": "",
         "date": ""
     },
-    "ignoreOnUpdate": ["database"],
+    "ignoreOnUpdate": [""],
     "modulesRequired": ["mysql"],
     "deleteBeforeUpdate": false
 }
