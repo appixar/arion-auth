@@ -1,7 +1,7 @@
 # Arion
 .tmp
 config/*.yml
-#database/*.yml
+#database/*.yml # uncomment if is a auth module with required default database
 */config/*.yml
 */database/*.yml
 public/upload/*
